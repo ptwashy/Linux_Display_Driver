@@ -1,0 +1,3 @@
+# ARM Linux Display Driver
+
+A driver that I wrote for the first project in an operating systems class quite a while back. It's relatively simple because I only had time to spend a couple hours on it but it was a fun project so I may be coming back to it at some point to add more functionality. The fill_circle function is fairly inefficient so that's near the top of my list. Actually the way I manage buffers is near the top of my list too.
